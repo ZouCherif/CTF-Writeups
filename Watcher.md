@@ -609,6 +609,3 @@ FLAG{who_watches_the_watchers}
 - **Python import paths are a trust boundary:** A writable local module made it possible to execute code as a more privileged user before a command whitelist was evaluated.
 - **Private keys must be protected:** A readable backup of an SSH private key was enough to authenticate directly as `root`.
 
----
-
-*Written from my own TryHackMe Watcher lab notes. All techniques were used in an authorized training environment.*
